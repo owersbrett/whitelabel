@@ -1,6 +1,19 @@
-# whitelabel
+# Whitelabel
 
-A new Flutter project.
+Whitelabel apps can be thought of as generic apps that exist to be a template for more custom development. 
+
+On the master branch you'll find the auth flow is already taken care of:
+1. bloc
+    1. Auth
+    2. User
+2. data
+    1. entity
+        1. AuthType
+        2. Auth
+        3. User
+    
+
+3. Auth, Auth Type, and User
 
 ## Getting Started
 

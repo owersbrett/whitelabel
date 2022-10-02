@@ -1,5 +1,5 @@
-import '../../data/_repository.dart';
 import '../../data/entity/user.dart';
+import '../../data/repository/_repository.dart';
 import '../auth_service.dart';
 
 class MockAuthService implements IAuthService {

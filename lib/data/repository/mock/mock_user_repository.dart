@@ -1,5 +1,5 @@
-import '../../error/not_found.dart';
-import '../entity/user.dart';
+import '../../../error/not_found.dart';
+import '../../entity/user.dart';
 import '../user_repository.dart';
 
 class MockUserRepository implements IUserRepository {

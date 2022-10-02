@@ -1,6 +1,6 @@
-import '../../error/not_found.dart';
+import '../../../error/not_found.dart';
 import '../auth_repository.dart';
-import '../entity/auth.dart';
+import '../../entity/auth.dart';
 
 class MockAuthRepository implements IAuthRepository {
   @override

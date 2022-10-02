@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'bloc/auth/auth.dart';
 import 'bloc/user/user_bloc.dart';
-import 'data/_repository.dart';
+import 'data/repository/_repository.dart';
 import 'service/auth_service.dart';
 import 'service/mock/mock_auth_service.dart';
 import 'widget/page/auth_page.dart';
